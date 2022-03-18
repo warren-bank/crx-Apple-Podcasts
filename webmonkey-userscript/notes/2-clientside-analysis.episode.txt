@@ -1,0 +1,1210 @@
+--------------------------------------------------------------------------------
+
+https://www.theproblem.com/podcast
+
+https://podcasts.apple.com/us/genre/podcasts/id26
+https://podcasts.apple.com/us/genre/podcasts-tv-film/id1309
+
+https://podcasts.apple.com/us/podcast/the-problem-with-jon-stewart/id1583132133
+https://podcasts.apple.com/us/podcast/jon-talks-climate-change-it-gets-heated/id1583132133?i=1000554337375
+
+--------------------------------------------------------------------------------
+// https://podcasts.apple.com/us/podcast/jon-talks-climate-change-it-gets-heated/id1583132133?i=1000554337375
+
+<script type="fastboot/shoebox" id="shoebox-media-api-cache-amp-podcasts">
+{
+  ".v1.catalog.us.podcast-episodes.1000554337375.l.en-us.include.artists.2cgenres.2cpodcast": "{\"x\":1647565132853,\"d\":[{\"id\":\"1000554337375\",\"type\":\"podcast-episodes\",\"href\":\"/v1/catalog/us/podcast-episodes/1000554337375?l=en-US\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/cc/5f/36/cc5f369d-1585-3848-c4e9-e5c7d3446a2d/mza_3417097897235362447.jpeg/{w}x{h}bb.{f}\"},\"topics\":[],\"artistName\":\"Apple TV+\",\"url\":\"https://podcasts.apple.com/us/podcast/jon-talks-climate-change-it-gets-heated/id1583132133?i=1000554337375\",\"subscribable\":true,\"mediaKind\":\"audio\",\"genreNames\":[\"TV \u0026 Film\"],\"name\":\"Jon Talks Climate Change: It Gets Heated\",\"kind\":\"full\",\"assetUrl\":\"https://rss.art19.com/episodes/e909e645-a1d9-4068-b537-9f7389434f94.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f\",\"contentAdvisory\":\"\",\"itunesTitle\":\"Jon Talks Climate Change: It Gets Heated\",\"releaseDateTime\":\"2022-03-17T07:00:00Z\",\"durationInMilliseconds\":3882000,\"guid\":\"gid://art19-episode-locator/V0/XQVADyoRdYugrxciDAMHjI7XKJcn7ye0wDTTr-tTUP8\",\"description\":{\"standard\":\"We don’t want to send the message that criticizing us on Twitter is a ticket to the podcast...but that’s what climate reporter Kendra Pierre-Louis did, and now here she is. Kendra had some issues with our climate episode on Apple TV+, so Jon invited her on for a conversation. And just like our planet, things heated up—insofar as you can call a thoughtful exchange of ideas “heated up.” Jon is also joined by writers Rob Christensen and Tocarra Mallard to talk about Twitter trolls, beard maintenance, and the importance of a steady government job.\\n\\n\\n\\n\\nJon recorded this episode away from the studio, so if it sounds like he’s talking into a paper cup tied to a string it’s because he actually might be. Please excuse the sound issues.\\n\\n\\n\\n\\nWhat did you think of our episode? Give our hotline a call and leave your questions, comments, or thoughts: 1-212-634-7222.\\n\\n\\n\\n\\nTo watch our latest episode, visit https://theproblem.link/AppleTV\\n\\n\\n\\n\\nCREDITS\\n\\nHosted by: Jon Stewart\\n\\n\\n\\n\\nFeaturing, in order of appearance: Tocarra Mallard, Rob Christensen, Kendra Pierre-Louis\\n\\n\\n\\n\\nExecutive Produced by Jon Stewart, Brinda Adhikari, James Dixon, Chris McShane, and Richard Plepler.\\n\\nLead Producer: Sophie Erickson\\n\\nProducers: Caity Gray, Robby Slowik\\n\\n\\n\\n\\nAssoc. Producer: Andrea Betanzos\\n\\nSound Designer \u0026 Audio Engineer: Miguel Carrascal\\n\\nSenior Digital Producer: Kwame Opam\\n\\nDigital Coordinator: Norma Hernandez\\n\\nSupervising Producer: Lorrie Baranek\\n\\nHead Writer: Kris Acimovic\\n\\nElements: Kenneth Hull, Daniella Philipson\\n\\nTalent: Brittany Mehmedovic, Haley Denzak\\n\\nResearch: Susan Helvenston, Andy Crystal, Anne Bennett, Deniz Çam, Harjyot Ron Singh\\n\\n\\n\\n\\nTheme Music by: Gary Clark Jr.\\n\\n\\n\\n\\nThe Problem With Jon Stewart podcast is an Apple TV+ podcast produced by Busboy Productions.\\n\\nhttps://apple.co/-JonStewart\",\"short\":\"\"},\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"explicit\"},\"relationships\":{\"podcast\":{\"href\":\"/v1/catalog/us/podcast-episodes/1000554337375/podcast?l=en-US\",\"data\":[{\"id\":\"1583132133\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1583132133?l=en-US\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/cc/5f/36/cc5f369d-1585-3848-c4e9-e5c7d3446a2d/mza_3417097897235362447.jpeg/{w}x{h}bb.{f}\"},\"artistName\":\"Apple TV+\",\"url\":\"https://podcasts.apple.com/us/podcast/the-problem-with-jon-stewart/id1583132133\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\",\"Comedy\"],\"createdDate\":\"2021-08-27\",\"trackCount\":23,\"completed\":false,\"seasonNumbers\":[],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"The Problem With Jon Stewart\",\"kind\":\"episodic\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1583132133\",\"releaseDateTime\":\"2022-03-10T08:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"The issues we tackle on The Problem With Jon Stewart are Too Big for TV™—so they spill over into the brilliantly titled The Problem With Jon Stewart podcast. Jon is joined by the staff and expert guests for nuanced discussions, updates on action items, and airing of grievances from writers over jokes that didn’t make the show.\\nThe Problem With Jon Stewart is an Apple TV+ podcast produced by Busboy Productions.\"},\"websiteUrl\":\"https://apple.co/-JonStewart\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"explicit\"}}]},\"genres\":{\"href\":\"/v1/catalog/us/podcast-episodes/1000554337375/genres?l=en-US\",\"data\":[{\"id\":\"1309\",\"type\":\"genres\",\"href\":\"/v1/catalog/us/genres/1309?l=en-US\",\"attributes\":{\"parentId\":\"26\",\"name\":\"TV \u0026 Film\",\"url\":\"https://itunes.apple.com/us/genre/id1309\",\"parentName\":\"Podcasts\"}}]},\"artists\":{\"href\":\"/v1/catalog/us/podcast-episodes/1000554337375/artists?l=en-US\",\"data\":[]}}}]}",
+  ".v1.catalog.us.charts.types.podcasts.genre.1309": "{\"x\":1647565133009,\"d\":{\"podcasts\":[{\"chart\":\"top\",\"name\":\"Top Shows\",\"orderId\":\"top:podcasts\",\"next\":\"/v1/catalog/us/charts?chart=top\u0026genre=1309\u0026offset=20\u0026types=podcasts\",\"data\":[{\"id\":\"1613414795\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1613414795\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/60/ee/e8/60eee8e6-6c74-3b4a-afd6-07798e7a8a77/mza_14552073482931031448.jpeg/{w}x{h}bb.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"e8ab49\",\"textColor2\":\"d39e4b\",\"textColor3\":\"b9893a\",\"textColor4\":\"a97e3c\"},\"artistName\":\"Focus Features\",\"url\":\"https://podcasts.apple.com/us/podcast/downton-abbey-the-official-podcast/id1613414795\",\"subscribable\":true,\"genreNames\":[\"Film Interviews\",\"Podcasts\",\"TV \u0026 Film\"],\"createdDate\":\"2022-03-08\",\"trackCount\":2,\"completed\":false,\"seasonNumbers\":[],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"Downton Abbey: The Official Podcast\",\"kind\":\"episodic\",\"copyright\":\"© 2022 Focus Features LLC\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1613414795\",\"releaseDateTime\":\"2022-03-10T15:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Downton Abbey: The Official Podcast is a brand new weekly re-watch podcast that is the place to be for fans of Downton Abbey in all its forms, from the television series to the upcoming film Downton Abbey: A New Era . Co-hosted by Rotten Tomatoes Awards Editor Jacqueline Coley and British broadcaster Anita Rani, Downton Abbey: The Official Podcast goes deep, starting with the iconic moments of Season 1 and taking fans all the way to the new film.\"},\"websiteUrl\":\"https://art19.com/shows/downton-abbey-the-official-podcast\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"clean\"}},{\"id\":\"1583132133\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1583132133\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/cc/5f/36/cc5f369d-1585-3848-c4e9-e5c7d3446a2d/mza_3417097897235362447.jpeg/{w}x{h}bb.{f}\"},\"artistName\":\"Apple TV+\",\"url\":\"https://podcasts.apple.com/us/podcast/the-problem-with-jon-stewart/id1583132133\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\",\"Comedy\"],\"createdDate\":\"2021-08-27\",\"trackCount\":23,\"completed\":false,\"seasonNumbers\":[],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"The Problem With Jon Stewart\",\"kind\":\"episodic\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1583132133\",\"releaseDateTime\":\"2022-03-10T08:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"The issues we tackle on The Problem With Jon Stewart are Too Big for TV™—so they spill over into the brilliantly titled The Problem With Jon Stewart podcast. Jon is joined by the staff and expert guests for nuanced discussions, updates on action items, and airing of grievances from writers over jokes that didn’t make the show.\\nThe Problem With Jon Stewart is an Apple TV+ podcast produced by Busboy Productions.\"},\"websiteUrl\":\"https://apple.co/-JonStewart\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"explicit\"}},{\"id\":\"1602740285\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1602740285\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/03/cb/df/03cbdf8c-8e71-0710-5297-2ff1e8442a8a/mza_16997232971537856802.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"fcef00\",\"textColor1\":\"0b0b0d\",\"textColor2\":\"001158\",\"textColor3\":\"3b390a\",\"textColor4\":\"333d46\"},\"artistName\":\"iHeartPodcasts\",\"url\":\"https://podcasts.apple.com/us/podcast/welcome-to-our-show/id1602740285\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\",\"Comedy\",\"Comedy Interviews\"],\"createdDate\":\"2021-12-30\",\"trackCount\":10,\"completed\":false,\"seasonNumbers\":[1],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"Welcome to Our Show\",\"kind\":\"episodic\",\"copyright\":\"© iHeartPodcasts\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1602740285\",\"releaseDateTime\":\"2022-03-07T11:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Go behind the scenes of Apartment 4D with the crew who called it home for seven incredible seasons. Each week, real-life friends Zooey Deschanel, Hannah Simone, and Lamorne Morris rewatch their Emmy nominated series, New Girl, and reveal the never before told behind-the-scenes escapades. Join them as they go bear hunting for every grizzly hidden in the background. Plus, each week, they play a different version of the True American game. Here, the rules don't make any sense, and you'll leave more confused than when you arrived. But it's always a good time with best friends. Speaking of besties - they're inviting all of the loft's favorite guest stars, writers, and directors to share their adventures on set.\"},\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}]}},{\"id\":\"1605253822\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1605253822\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/dc/86/a8/dc86a839-adfa-e71e-faf6-65a482882e4f/mza_13259360898305346269.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"01090c\",\"textColor1\":\"e5c087\",\"textColor2\":\"d79b60\",\"textColor3\":\"b79b6e\",\"textColor4\":\"ac7e4f\"},\"artistName\":\"HBO\",\"url\":\"https://podcasts.apple.com/us/podcast/the-official-gilded-age-podcast/id1605253822\",\"subscribable\":true,\"genreNames\":[\"After Shows\",\"Podcasts\",\"TV \u0026 Film\"],\"createdDate\":\"2022-01-14\",\"trackCount\":9,\"completed\":false,\"seasonNumbers\":[1],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"The Official Gilded Age Podcast\",\"kind\":\"episodic\",\"copyright\":\"2022 © HBO Max\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1605253822\",\"releaseDateTime\":\"2022-03-15T02:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Join TCM’s Alicia Malone and Tom Meyers from The Bowery Boys on HBO’s official Gilded Age podcast. After each episode, they discuss what happened on screen and the real people, places and events featured on the show. Each week they’re joined by some of the cast and crew who bring the show to life, sharing exclusive behind-the-scenes interviews and fun-filled history. \\n\\n\\nWatch The Gilded Age on HBO Max starting Monday, January 24th and subscribe to The Official Gilded Age Podcast so you don’t miss an episode. \"},\"websiteUrl\":\"https://www.hbo.com/the-gilded-age\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"clean\"}},{\"id\":\"1611182774\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1611182774\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/ca/ad/1a/caad1afa-347d-db0d-3d0b-6ddf30039af7/mza_2570358346617095164.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"d29671\",\"textColor1\":\"120a01\",\"textColor2\":\"160e05\",\"textColor3\":\"392618\",\"textColor4\":\"3c291a\"},\"artistName\":\"Shondaland Audio and iHeartPodcasts\",\"url\":\"https://podcasts.apple.com/us/podcast/inventing-anna-the-official-podcast/id1611182774\",\"subscribable\":true,\"genreNames\":[\"After Shows\",\"Podcasts\",\"TV \u0026 Film\",\"True Crime\"],\"createdDate\":\"2022-02-22\",\"trackCount\":4,\"completed\":false,\"seasonNumbers\":[1],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"Inventing Anna: The Official Podcast\",\"kind\":\"episodic\",\"copyright\":\"© Shondaland Audio and iHeartPodcasts\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1611182774\",\"releaseDateTime\":\"2022-03-16T07:01:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"This companion podcast delves deeper into the making of the hit Shondaland series Inventing Anna on Netflix, the story of infamous con artist Anna Sorokin (A.K.A. Anna Delvey). Hosted by Stacey Wilson Hunt, each episode features conversations with guests including creator Shonda Rhimes, journalist Jessica Pressler, cast, and the real-life people who inspired this iconic saga. \\n \\nTo catch up before you listen, make sure you binge Inventing Anna the series on Netflix now!\"},\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"clean\"}},{\"id\":\"1610877972\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1610877972\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2a/0e/79/2a0e797e-2a83-7f14-1032-1155d8fe9e28/mza_11225107954498715523.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"050304\",\"textColor1\":\"ffffff\",\"textColor2\":\"7eb5cd\",\"textColor3\":\"cccccc\",\"textColor4\":\"6591a5\"},\"artistName\":\"Kast Media | Ashley Greene\",\"url\":\"https://podcasts.apple.com/us/podcast/the-twilight-effect/id1610877972\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\"],\"createdDate\":\"2022-02-19\",\"trackCount\":3,\"completed\":false,\"seasonNumbers\":[],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"The Twilight Effect\",\"kind\":\"episodic\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1610877972\",\"releaseDateTime\":\"2022-03-15T09:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Alice Cullen is BACK to invite her Cullen family along with other cast members in the Twilight world as we bring to you this rewatch of all five Twilight movies. Ashley Greene is traveling to Forks, Washington, and guess what? The fans are invited to join in on every single episode. One such fan, Melanie Howe, is Ashley's best friend and co-host, and this twi-hard is going to pull out all of the behind-the-scenes gossip. \\n\\nAshley and Mel will break down every scene from the movies while Ashely shares on and off set secrets, inside info, and hilarious commentary. Mel's got some burning questions and, no matter how juicy, she's pushing her bestie to share! Then, Ashley and Mel are joined by cast members from the series. They'll interview them about their Twilight experiences and reminisce about that metamorphic time of their lives. Twilight had an impact on all of our lives, including the cast, so they'll think back and reveal their Twilight Effect. What is yours? You may just get invited to share it on the show!\"},\"websiteUrl\":\"https://kastmedia.com/podcasts/the-twilight-effect/\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"clean\"}},{\"id\":\"1611657419\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1611657419\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6b/ad/e3/6bade326-6923-91ad-1a6c-b6fdaa8392e8/mza_10025550807793838047.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"ffffff\",\"textColor1\":\"000000\",\"textColor2\":\"2f2f2f\",\"textColor3\":\"333333\",\"textColor4\":\"595959\"},\"artistName\":\"Netflix | Kast Media\",\"url\":\"https://podcasts.apple.com/us/podcast/we-have-the-receipts/id1611657419\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\"],\"createdDate\":\"2022-02-25\",\"trackCount\":4,\"completed\":false,\"seasonNumbers\":[1],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"We Have the Receipts\",\"kind\":\"episodic\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1611657419\",\"releaseDateTime\":\"2022-03-08T10:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"There’s no shame admitting that we’ve all been there… on two feet as the credits roll, wide eyed, furiously googling your new favorite stars' Instagrams, scanning Twitter for memes. You know THAT energy? That electricity you feel when the binge is done but you just want MORE? That very feeling is the central theme of Netflix \u0026 Tudum’s next breakout hit: We Have The Receipts.\\n\\nHosted by Chris Burns and Lauren Speed-Hamilton, We Have the Receipts is a weekly\\nall-access deep dive into Netflix Unscripted Reality! Joining Chris and Lauren will be this week’s top trending guest(s) - maybe a talked-about player from Love is Blind Season 2 or even some fan-faves from Too Hot To Handle.\\n\\nMust-see-TV is taken to the next level through prompts, games, conversations, segments, and immersive audience engagement that foster unpredictable moments and shocking reveals. With the free-flowing depth of podcast conversations and viral elements of TV’s best talk shows, We Have The Receipts is an upbeat, fan-first destination to uncover more insider secrets, more expert hot takes, and more off-the-rails drama from their favorite Netflix reality stars.\"},\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"clean\"}},{\"id\":\"1473649053\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1473649053\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Podcasts115/v4/a9/33/3b/a9333b6e-be20-9afb-0b04-857ceeb3abf0/mza_9719008039541048888.jpeg/{w}x{h}bb.{f}\",\"bgColor\":\"34081c\",\"textColor1\":\"ffffff\",\"textColor2\":\"d7a5c0\",\"textColor3\":\"d6cdd1\",\"textColor4\":\"b6859f\"},\"artistName\":\"Bachelor Nation | Wondery\",\"url\":\"https://podcasts.apple.com/us/podcast/bachelor-happy-hour/id1473649053\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\",\"Society \u0026 Culture\",\"Relationships\"],\"createdDate\":\"2019-07-19\",\"trackCount\":147,\"completed\":false,\"seasonNumbers\":[],\"name\":\"Bachelor Happy Hour\",\"kind\":\"episodic\",\"copyright\":\"© 2020 Telepictures Productions Inc\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1473649053\",\"releaseDateTime\":\"2022-03-16T07:01:00Z\",\"displayType\":\"hybrid\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"The one and only official Bachelor Nation podcast is here! Hosts Becca Kufrin and Michelle Young are no strangers to risking it all for love and showing their dating lives on national television. They have seen both sides of Bachelor Mansion, from handing out roses to receiving them. Now, Becca and Michelle are sharing their stories and experiences on the official Bachelor Nation podcast.\\n“Bachelor Happy Hour” takes you behind the scenes with all things Bachelor Nation. Becca and Michelle talk to current cast members, who reveal first-hand details about what really went on. They’ve got all the inside information about “The Bachelor,” “The Bachelorette,” and “Bachelor in Paradise” that you simply won’t hear anywhere else.\\nFrom chatting with fellow show alumni to doling out relationship advice and sharing exclusive material, you’ll find it all on “Bachelor Happy Hour.” Welcome to your new home for all things Bachelor Nation!\\nBe sure to tune in on Apple Podcasts, Spotify, or wherever you listen to podcasts. You won’t want to miss it!\"},\"websiteUrl\":\"https://bachelornation.com/\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"},{\"kind\":\"subscribe\",\"type\":\"PSUB\"}],\"contentRating\":\"clean\"}},{\"id\":\"1238355247\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1238355247\",\"attributes\":{\"artwork\":{\"width\":1400,\"height\":1400,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Podcasts116/v4/72/39/96/72399653-f32c-61c5-f38e-e225ab540c0e/mza_8907955720111671451.jpeg/{w}x{h}bb.{f}\",\"bgColor\":\"feffff\",\"textColor1\":\"000000\",\"textColor2\":\"232100\",\"textColor3\":\"323333\",\"textColor4\":\"4f4d33\"},\"artistName\":\"iHeartPodcasts\",\"url\":\"https://podcasts.apple.com/us/podcast/the-ben-and-ashley-i-almost-famous-podcast/id1238355247\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\",\"Society \u0026 Culture\"],\"createdDate\":\"2017-05-18\",\"trackCount\":353,\"completed\":false,\"seasonNumbers\":[1],\"releaseFrequency\":\"Updated Daily\",\"name\":\"The Ben and Ashley I Almost Famous Podcast\",\"kind\":\"episodic\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1238355247\",\"releaseDateTime\":\"2022-03-16T23:04:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Fan Favorite and one of the most popular Bachelors Ben Higgins and Ashley Iaconetti, the notorious crier from ABC’s Bachelorette and Bachelor in Paradise, will be covering everything relationships and breaking down the new season of the Bachelorette. They will include interviews with celebrities, past Bachelor and Bachelorette contestants, and interactions from their most loyal fans.\"},\"websiteUrl\":\"https://www.iheart.com/podcast/139-the-ben-and-ashley-28165481/\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"clean\"}},{\"id\":\"278974813\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/278974813\",\"attributes\":{\"artwork\":{\"width\":1400,\"height\":1400,\"url\":\"https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b4/88/90/b48890c1-2254-42b0-b0cc-8b62fb0bdebc/mza_6875716893681817020.jpg/{w}x{h}bb.{f}\"},\"artistName\":\"NPR\",\"url\":\"https://podcasts.apple.com/us/podcast/pop-culture-happy-hour/id278974813\",\"subscribable\":true,\"genreNames\":[\"Film Reviews\",\"Podcasts\",\"TV \u0026 Film\",\"After Shows\"],\"createdDate\":\"2008-04-18\",\"trackCount\":303,\"completed\":false,\"seasonNumbers\":[],\"releaseFrequency\":\"Updated Daily\",\"name\":\"Pop Culture Happy Hour\",\"kind\":\"episodic\",\"copyright\":\"© Copyright 2012-2021 NPR - For Personal Use Only\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=278974813\",\"releaseDateTime\":\"2022-03-17T04:10:00Z\",\"displayType\":\"hybrid\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Get obsessed with us. Five days a week, Pop Culture Happy Hour serves you recommendations and commentary on the buzziest movies, TV, music, books, videogames and more. Join arts journalists Linda Holmes, Glen Weldon, Stephen Thompson, and Aisha Harris - plus a rotating cast of guest pop culture aficionados. The Happy Hour team leaves room at the table for exploring a range of reactions and opinions on every bit of the pop universe. From lowbrow to highbrow to the stuff in between, they take it all with a shot of cheer.\\n\\nMake your happy hour even happier with Pop Culture Happy Hour Plus! Your subscription supports the podcast and unlocks a sponsor-free feed. Learn more at plus.npr.org/happyhour\"},\"websiteUrl\":\"https://www.npr.org/series/pop-culture-happy-hour/\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"},{\"kind\":\"subscribe\",\"type\":\"PSUB\"}]}},{\"id\":\"1612934199\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1612934199\",\"attributes\":{\"artwork\":{\"width\":1964,\"height\":1964,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b7/e4/19/b7e41977-f071-8d93-f943-d8c390a20d93/mza_10306267275359689086.jpg/{w}x{h}bb.{f}\"},\"artistName\":\"Slam Book Inc.\",\"url\":\"https://podcasts.apple.com/us/podcast/better-things-with-pamela-adlon/id1612934199\",\"subscribable\":true,\"genreNames\":[\"Film Interviews\",\"Podcasts\",\"TV \u0026 Film\"],\"createdDate\":\"2022-03-05\",\"trackCount\":4,\"completed\":false,\"seasonNumbers\":[1],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"Better Things with Pamela Adlon\",\"kind\":\"episodic\",\"copyright\":\"© 2022\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1612934199\",\"releaseDateTime\":\"2022-03-08T15:00:00Z\",\"displayType\":\"hybrid\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Pamela Adlon, Emmy Award-winning creator, actor, writer, producer, and director, finally has her own podcast to explore the people and topics that inspire and light her up. Pamela will host special guests from all walks of life, and deep dive into their hidden dimensions – their journeys, their passions, what drives them, memories that stick, turning points in their lives, childhood nostalgia, and visions for the future.\\n \\nIn this season, Pamela breaks down the making of the fifth and final season of her critically acclaimed, award-winning series, Better Things. Take a peek into the creative process of a woman who at 50, started writing, directing, showrunning, and starring in her own TV show. Featuring guest stars, cast, and collaborators from the series. For all the fans of the show, this is the moment you’ve been waiting for. An inside look at each episode of the finale season, straight from the horse’s (Pamela’s) mouth.\"},\"websiteUrl\":\"https://sites.libsyn.com/404378\",\"offers\":[{\"kind\":\"get\",\"type\":\"PLUS\"},{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"explicit\"}},{\"id\":\"1586390793\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1586390793\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/9b/e0/48/9be048f9-ed66-759a-d22e-578cd35a8b2d/mza_9989743395211591712.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"feffff\",\"textColor1\":\"000000\",\"textColor2\":\"1b1c1d\",\"textColor3\":\"323333\",\"textColor4\":\"49494a\"},\"artistName\":\"The Ringer\",\"url\":\"https://podcasts.apple.com/us/podcast/the-prestige-tv-podcast/id1586390793\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\"],\"createdDate\":\"2021-09-17\",\"trackCount\":172,\"completed\":false,\"seasonNumbers\":[1],\"releaseFrequency\":\"Updated Semiweekly\",\"name\":\"The Prestige TV Podcast\",\"kind\":\"episodic\",\"copyright\":\"© All rights reserved.\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1586390793\",\"releaseDateTime\":\"2022-03-16T10:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"The Ringer staff delivers a guide to the vast streaming landscape by discussing one show or movie per day, including premieres. the latest surprise Netflix hits, periodic check-ins on favorite TV shows, new movies available for streaming, and the hosts’ favorite shows to watch right away.\"},\"websiteUrl\":\"https://www.theringer.com/\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}]}},{\"id\":\"1268527882\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1268527882\",\"attributes\":{\"artwork\":{\"width\":1400,\"height\":1400,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/48/34/53/483453b5-3c94-b254-5be7-36be0e45fdcb/mza_15456321659082808784.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"27ffb6\",\"textColor1\":\"000000\",\"textColor2\":\"001b12\",\"textColor3\":\"073324\",\"textColor4\":\"074933\"},\"artistName\":\"The Ringer \u0026 Bill Simmons\",\"url\":\"https://podcasts.apple.com/us/podcast/the-rewatchables/id1268527882\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\"],\"createdDate\":\"2017-08-07\",\"trackCount\":16,\"completed\":false,\"seasonNumbers\":[],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"The Rewatchables\",\"kind\":\"episodic\",\"copyright\":\"© All rights reserved.\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1268527882\",\"releaseDateTime\":\"2022-03-15T04:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"'The Rewatchables,' a film podcast from the Ringer Podcast Network, features The Ringer’s Bill Simmons and a roundtable of people from the Ringer universe discussing movies they can’t seem to stop watching. Listen to the complete archives of 150-plus movies, including 'The Hangover,' 'Godfather 2,' 'Dunkirk,' 'Creed,' and many more classics, on our special 'Rewatchables' page on The Ringer.\"},\"websiteUrl\":\"https://www.theringer.com\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"explicit\"}},{\"id\":\"1571792783\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1571792783\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ae/ed/17/aeed1787-806f-cc4b-c03f-1a84224694eb/mza_13504922311606715532.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"feffff\",\"textColor1\":\"000000\",\"textColor2\":\"482f1d\",\"textColor3\":\"323333\",\"textColor4\":\"6c584a\"},\"artistName\":\"iHeartPodcasts\",\"url\":\"https://podcasts.apple.com/us/podcast/drama-queens/id1571792783\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\"],\"createdDate\":\"2021-06-10\",\"trackCount\":43,\"completed\":false,\"seasonNumbers\":[],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"Drama Queens\",\"kind\":\"episodic\",\"copyright\":\"© iHeartRadio\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1571792783\",\"releaseDateTime\":\"2022-03-14T04:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Take yourself back in time...back to high school. The ups and downs, the loves the losses, the struggles the triumphs, being together with your friends...feeling every emotion of it.\\n \\nIs 23 more than just a number to you? Do you respond to people by saying I don't wanna be anything other than what I've been trying to be lately? Do you expect to have life-changing moments while caught in the confetti or the rain?\\n \\nAre you One Tree Hill obsessed?...it's OK...we're here for you. You can sit with us.\\n \\nAre Brooke, Peyton and Haley your BFF goals?\\n \\nThese Drama Queens are getting back together!! Bethany Joy Lenz, Hilarie Burton and Sophia Bush are the biggest Drama Queens and they are here with you to dissect every episode, deliver every detail you must know, and devote themselves to you as you rewatch every single scene together.\\n \\nJoin Joy, Hilarie and Sophia each week.\\n \\nRelive it, Relove it, Rewatch it ...every One Tree Hill minute of it.\\n\\nBe a Drama Queen.\\n\\nDrama Queens, an iHeartRadio Podcast.\"},\"websiteUrl\":\"https://www.iheart.com/podcast/1119-drama-queens-83532602/\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"clean\"}},{\"id\":\"498130432\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/498130432\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/a4/f6/f1/a4f6f1b6-da48-3993-363b-3f293f339de2/mza_15729203037942114648.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"00b8da\",\"textColor1\":\"000000\",\"textColor2\":\"02202b\",\"textColor3\":\"00242b\",\"textColor4\":\"013f4e\"},\"artistName\":\"Ben Mandelker \u0026 Ronnie Karam\",\"url\":\"https://podcasts.apple.com/us/podcast/watch-what-crappens/id498130432\",\"subscribable\":true,\"genreNames\":[\"TV Reviews\",\"Podcasts\",\"TV \u0026 Film\"],\"createdDate\":\"2012-01-26\",\"trackCount\":1760,\"completed\":false,\"seasonNumbers\":[],\"releaseFrequency\":\"Updated Daily\",\"name\":\"Watch What Crappens\",\"kind\":\"episodic\",\"copyright\":\"© 2021 Ben Mandelker \u0026 Ronnie Karam\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=498130432\",\"releaseDateTime\":\"2022-03-15T15:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"A daily podcast that revels in all things Bravo (and beyond!). Join Ben Mandelker and Ronnie Karam as they praise, ridicule, and eviscerate the Real Housewives, Below Deck, and whatever other crap Bravo throws at us. We mock because we love. Support us at www.patreon.com/watchwhatcrappens for bonus episodes, video recaps, and exclusive access to our Discord server.\"},\"websiteUrl\":\"http://www.watchwhatcrappens.com/\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"explicit\"}},{\"id\":\"1536352412\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1536352412\",\"attributes\":{\"artwork\":{\"width\":1500,\"height\":1500,\"url\":\"https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/62/0c/8e/620c8ebc-4215-d77e-e6fe-03555cb26525/mza_12848806942444707590.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"ffffff\",\"textColor1\":\"000000\",\"textColor2\":\"212121\",\"textColor3\":\"333333\",\"textColor4\":\"4e4e4e\"},\"artistName\":\"Hannah Berner \u0026 Paige DeSorbo\",\"url\":\"https://podcasts.apple.com/us/podcast/giggly-squad/id1536352412\",\"subscribable\":true,\"genreNames\":[\"After Shows\",\"Podcasts\",\"TV \u0026 Film\",\"Comedy\"],\"createdDate\":\"2020-10-19\",\"trackCount\":73,\"completed\":false,\"seasonNumbers\":[-27,-15,1],\"releaseFrequency\":\"Updated Biweekly\",\"name\":\"Giggly Squad\",\"kind\":\"episodic\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1536352412\",\"releaseDateTime\":\"2022-03-15T06:51:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Welcome to Giggly Squad. Each week, Hannah Berner and Paige DeSorbo make fun of everything, but most importantly themselves. They discuss pop culture, fashion trends, television, horoscopes, mental health, dating, and expose their personal lives. Also, they can't be managed.\\n See acast.com/privacy for privacy and opt-out information.\"},\"websiteUrl\":\"gigglysquad.com\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"explicit\"}},{\"id\":\"1279562874\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1279562874\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/48/7f/69/487f69ad-64df-a74f-5fd3-aa27a0e5f85d/mza_5477625639474238308.jpeg/{w}x{h}bb.{f}\",\"bgColor\":\"bfbfbf\",\"textColor1\":\"0c0c0c\",\"textColor2\":\"042445\",\"textColor3\":\"2f2f2f\",\"textColor4\":\"29435e\"},\"artistName\":\"Danny Pellegrino\",\"url\":\"https://podcasts.apple.com/us/podcast/everything-iconic-with-danny-pellegrino/id1279562874\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\",\"Comedy\",\"Comedy Interviews\"],\"createdDate\":\"2017-09-06\",\"trackCount\":448,\"completed\":false,\"seasonNumbers\":[1,2],\"releaseFrequency\":\"Updated Biweekly\",\"name\":\"Everything Iconic with Danny Pellegrino\",\"kind\":\"episodic\",\"copyright\":\"© Danny Pellegrino\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1279562874\",\"releaseDateTime\":\"2022-03-16T20:21:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Everything Iconic with Danny Pellegrino breaks down reality TV and iconic pop culture moments. Special guests deep dive with Danny into the topics we all care about: The Real Housewives and nostalgic entertainment, with some fun detours along the way.\\n See acast.com/privacy for privacy and opt-out information.\"},\"websiteUrl\":\"http://www.EverythingIconic.com\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"explicit\"}},{\"id\":\"1613414122\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1613414122\",\"attributes\":{\"artwork\":{\"width\":2000,\"height\":2000,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/32/c5/02/32c50258-b744-138f-82fa-f4c42b63a770/mza_11775242172778694690.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"000201\",\"textColor1\":\"199efe\",\"textColor2\":\"fc4816\",\"textColor3\":\"147fcb\",\"textColor4\":\"c93a12\"},\"artistName\":\"The Ringer\",\"url\":\"https://podcasts.apple.com/us/podcast/trial-by-content/id1613414122\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\"],\"createdDate\":\"2022-03-08\",\"trackCount\":2,\"completed\":false,\"seasonNumbers\":[],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"Trial by Content\",\"kind\":\"episodic\",\"copyright\":\"© All rights reserved.\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1613414122\",\"releaseDateTime\":\"2022-03-11T11:00:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Every week, Joanna Robinson, Dave Gonzales, and Neil Miller enter the pop-culture discourse with a lively (and occasionally heated) debate pegged to the biggest new releases in film and television. In addition to bringing their own answer, they also consider submissions from listeners and the occasional special guest. Together via rigorous debate and a listener poll, the hosts and audience venture on a quest to find the perfect answer for each of the greatest pop culture questions of our time.\"},\"websiteUrl\":\"https://www.theringer.com\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}]}},{\"id\":\"1494722390\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1494722390\",\"attributes\":{\"artwork\":{\"width\":3000,\"height\":3000,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/24/2b/74/242b7443-e196-41e7-9c2f-6525f125083d/mza_13657698092977413192.jpeg/{w}x{h}bb.{f}\",\"bgColor\":\"f64ba2\",\"textColor1\":\"140902\",\"textColor2\":\"241b16\",\"textColor3\":\"411622\",\"textColor4\":\"4e2432\"},\"artistName\":\"Lala Kent | Cumulus Podcast Network\",\"url\":\"https://podcasts.apple.com/us/podcast/give-them-lala/id1494722390\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\",\"Arts\",\"Fashion \u0026 Beauty\"],\"createdDate\":\"2020-01-13\",\"trackCount\":95,\"completed\":false,\"seasonNumbers\":[2],\"releaseFrequency\":\"Updated Weekly\",\"name\":\"Give Them Lala\",\"kind\":\"episodic\",\"copyright\":\"© 2022 Lala Kent | Cumulus Podcast Network\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1494722390\",\"releaseDateTime\":\"2022-03-16T08:15:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Every day is a brand-new beginning for Lala Kent. Get to know the actress, singer, TV personality and entrepreneur, as she dives deep into relationships, sex, betrayal, mental health, personal life, and business. Lala’s top priority is to make her listeners feel heard, understood, and inspired. To give them honesty. Give them motivation. To Give Them Lala. \"},\"websiteUrl\":\"https://cumuluspodcastnetwork.com/pods/give-them-lala/\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"explicit\"}},{\"id\":\"1439252196\",\"type\":\"podcasts\",\"href\":\"/v1/catalog/us/podcasts/1439252196\",\"attributes\":{\"artwork\":{\"width\":1400,\"height\":1400,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6d/d0/2e/6dd02e34-80b0-c946-257b-685bcc2d5050/mza_12469350061952001239.jpg/{w}x{h}bb.{f}\",\"bgColor\":\"00784d\",\"textColor1\":\"ffffff\",\"textColor2\":\"f1ffff\",\"textColor3\":\"cce3db\",\"textColor4\":\"c0e3db\"},\"artistName\":\"The Ringer\",\"url\":\"https://podcasts.apple.com/us/podcast/the-big-picture/id1439252196\",\"subscribable\":true,\"genreNames\":[\"TV \u0026 Film\",\"Podcasts\"],\"createdDate\":\"2018-10-16\",\"trackCount\":462,\"completed\":false,\"seasonNumbers\":[],\"name\":\"The Big Picture\",\"kind\":\"episodic\",\"copyright\":\"© All rights reserved.\",\"subscriptionUrl\":\"https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us\u0026id=1439252196\",\"releaseDateTime\":\"2022-03-16T20:27:00Z\",\"displayType\":\"free\",\"languageTag\":\"en-US\",\"description\":{\"standard\":\"Sean Fennessey and Amanda Dobbins review the movies you need to see. Plus: Top 5s, Movie Drafts, Oscars analysis, and more, featuring a rotating cast of Ringer colleagues like Chris Ryan, Shea Serrano, Van Lathan, and Bill Simmons.\"},\"websiteUrl\":\"https://www.theringer.com\",\"offers\":[{\"kind\":\"get\",\"type\":\"STDQ\"}],\"contentRating\":\"clean\"}}],\"href\":\"/v1/catalog/us/charts?chart=top\u0026genre=1309\u0026types=podcasts\"}]}}"
+}
+</script>
+
+----------------------------------------
+
+console:
+========
+{
+  let json, keys, val
+
+  try {
+    json = document.querySelector('script#shoebox-media-api-cache-amp-podcasts[type="fastboot/shoebox"]')
+    json = json.innerText
+    json = JSON.parse(json)
+    keys = Object.keys(json)
+
+    for (let key of keys) {
+      try {
+        val = json[key]
+        val = JSON.parse(val)
+
+        console.log(key)
+        console.log(('-').repeat(20))
+        console.log(JSON.stringify(val, null, 2))
+      }
+      catch(e2) {}
+    }
+  }
+  catch(e1) {}
+}
+
+output:
+=======
+
+.v1.catalog.us.podcast-episodes.1000554337375.l.en-us.include.artists.2cgenres.2cpodcast
+--------------------
+{
+  "x": 1647565417052,
+  "d": [
+    {
+      "id": "1000554337375",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/us/podcast-episodes/1000554337375?l=en-US",
+      "attributes": {
+        "artwork": {
+          "width": 3000,
+          "height": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/cc/5f/36/cc5f369d-1585-3848-c4e9-e5c7d3446a2d/mza_3417097897235362447.jpeg/{w}x{h}bb.{f}"
+        },
+        "topics": [],
+        "artistName": "Apple TV+",
+        "url": "https://podcasts.apple.com/us/podcast/jon-talks-climate-change-it-gets-heated/id1583132133?i=1000554337375",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "TV & Film"
+        ],
+        "name": "Jon Talks Climate Change: It Gets Heated",
+        "kind": "full",
+        "assetUrl": "https://rss.art19.com/episodes/e909e645-a1d9-4068-b537-9f7389434f94.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "contentAdvisory": "",
+        "itunesTitle": "Jon Talks Climate Change: It Gets Heated",
+        "releaseDateTime": "2022-03-17T07:00:00Z",
+        "durationInMilliseconds": 3882000,
+        "guid": "gid://art19-episode-locator/V0/XQVADyoRdYugrxciDAMHjI7XKJcn7ye0wDTTr-tTUP8",
+        "description": {
+          "standard": "We don’t want to send the message that criticizing us on Twitter is a ticket to the podcast...but that’s what climate reporter Kendra Pierre-Louis did, and now here she is. Kendra had some issues with our climate episode on Apple TV+, so Jon invited her on for a conversation. And just like our planet, things heated up—insofar as you can call a thoughtful exchange of ideas “heated up.” Jon is also joined by writers Rob Christensen and Tocarra Mallard to talk about Twitter trolls, beard maintenance, and the importance of a steady government job.\n\n\n\n\nJon recorded this episode away from the studio, so if it sounds like he’s talking into a paper cup tied to a string it’s because he actually might be. Please excuse the sound issues.\n\n\n\n\nWhat did you think of our episode? Give our hotline a call and leave your questions, comments, or thoughts: 1-212-634-7222.\n\n\n\n\nTo watch our latest episode, visit https://theproblem.link/AppleTV\n\n\n\n\nCREDITS\n\nHosted by: Jon Stewart\n\n\n\n\nFeaturing, in order of appearance: Tocarra Mallard, Rob Christensen, Kendra Pierre-Louis\n\n\n\n\nExecutive Produced by Jon Stewart, Brinda Adhikari, James Dixon, Chris McShane, and Richard Plepler.\n\nLead Producer: Sophie Erickson\n\nProducers: Caity Gray, Robby Slowik\n\n\n\n\nAssoc. Producer: Andrea Betanzos\n\nSound Designer & Audio Engineer: Miguel Carrascal\n\nSenior Digital Producer: Kwame Opam\n\nDigital Coordinator: Norma Hernandez\n\nSupervising Producer: Lorrie Baranek\n\nHead Writer: Kris Acimovic\n\nElements: Kenneth Hull, Daniella Philipson\n\nTalent: Brittany Mehmedovic, Haley Denzak\n\nResearch: Susan Helvenston, Andy Crystal, Anne Bennett, Deniz Çam, Harjyot Ron Singh\n\n\n\n\nTheme Music by: Gary Clark Jr.\n\n\n\n\nThe Problem With Jon Stewart podcast is an Apple TV+ podcast produced by Busboy Productions.\n\nhttps://apple.co/-JonStewart",
+          "short": ""
+        },
+        "offers": [
+          {
+            "kind": "get",
+            "type": "STDQ"
+          }
+        ],
+        "contentRating": "explicit"
+      },
+      "relationships": {
+        "genres": {
+          "href": "/v1/catalog/us/podcast-episodes/1000554337375/genres?l=en-US",
+          "data": [
+            {
+              "id": "1309",
+              "type": "genres",
+              "href": "/v1/catalog/us/genres/1309?l=en-US",
+              "attributes": {
+                "parentId": "26",
+                "url": "https://itunes.apple.com/us/genre/id1309",
+                "name": "TV & Film",
+                "parentName": "Podcasts"
+              }
+            }
+          ]
+        },
+        "podcast": {
+          "href": "/v1/catalog/us/podcast-episodes/1000554337375/podcast?l=en-US",
+          "data": [
+            {
+              "id": "1583132133",
+              "type": "podcasts",
+              "href": "/v1/catalog/us/podcasts/1583132133?l=en-US",
+              "attributes": {
+                "artwork": {
+                  "width": 3000,
+                  "height": 3000,
+                  "url": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/cc/5f/36/cc5f369d-1585-3848-c4e9-e5c7d3446a2d/mza_3417097897235362447.jpeg/{w}x{h}bb.{f}"
+                },
+                "artistName": "Apple TV+",
+                "url": "https://podcasts.apple.com/us/podcast/the-problem-with-jon-stewart/id1583132133",
+                "subscribable": true,
+                "genreNames": [
+                  "TV & Film",
+                  "Podcasts",
+                  "Comedy"
+                ],
+                "createdDate": "2021-08-27",
+                "trackCount": 23,
+                "completed": false,
+                "seasonNumbers": [],
+                "releaseFrequency": "Updated Weekly",
+                "name": "The Problem With Jon Stewart",
+                "kind": "episodic",
+                "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1583132133",
+                "releaseDateTime": "2022-03-10T08:00:00Z",
+                "displayType": "free",
+                "languageTag": "en-US",
+                "description": {
+                  "standard": "The issues we tackle on The Problem With Jon Stewart are Too Big for TV™—so they spill over into the brilliantly titled The Problem With Jon Stewart podcast. Jon is joined by the staff and expert guests for nuanced discussions, updates on action items, and airing of grievances from writers over jokes that didn’t make the show.\nThe Problem With Jon Stewart is an Apple TV+ podcast produced by Busboy Productions."
+                },
+                "websiteUrl": "https://apple.co/-JonStewart",
+                "offers": [
+                  {
+                    "kind": "get",
+                    "type": "STDQ"
+                  }
+                ],
+                "contentRating": "explicit"
+              }
+            }
+          ]
+        },
+        "artists": {
+          "href": "/v1/catalog/us/podcast-episodes/1000554337375/artists?l=en-US",
+          "data": []
+        }
+      }
+    }
+  ]
+}
+
+.v1.catalog.us.charts.types.podcasts.genre.1309
+--------------------
+{
+  "x": 1647565417129,
+  "d": {
+    "podcasts": [
+      {
+        "chart": "top",
+        "name": "Top Shows",
+        "orderId": "top:podcasts",
+        "next": "/v1/catalog/us/charts?chart=top&genre=1309&offset=20&types=podcasts",
+        "data": [
+          {
+            "id": "1613414795",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1613414795",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/60/ee/e8/60eee8e6-6c74-3b4a-afd6-07798e7a8a77/mza_14552073482931031448.jpeg/{w}x{h}bb.{f}",
+                "bgColor": "000000",
+                "textColor1": "e8ab49",
+                "textColor2": "d39e4b",
+                "textColor3": "b9893a",
+                "textColor4": "a97e3c"
+              },
+              "artistName": "Focus Features",
+              "url": "https://podcasts.apple.com/us/podcast/downton-abbey-the-official-podcast/id1613414795",
+              "subscribable": true,
+              "genreNames": [
+                "Film Interviews",
+                "Podcasts",
+                "TV & Film"
+              ],
+              "createdDate": "2022-03-08",
+              "trackCount": 2,
+              "completed": false,
+              "seasonNumbers": [],
+              "releaseFrequency": "Updated Weekly",
+              "name": "Downton Abbey: The Official Podcast",
+              "kind": "episodic",
+              "copyright": "© 2022 Focus Features LLC",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1613414795",
+              "releaseDateTime": "2022-03-10T15:00:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Downton Abbey: The Official Podcast is a brand new weekly re-watch podcast that is the place to be for fans of Downton Abbey in all its forms, from the television series to the upcoming film Downton Abbey: A New Era . Co-hosted by Rotten Tomatoes Awards Editor Jacqueline Coley and British broadcaster Anita Rani, Downton Abbey: The Official Podcast goes deep, starting with the iconic moments of Season 1 and taking fans all the way to the new film."
+              },
+              "websiteUrl": "https://art19.com/shows/downton-abbey-the-official-podcast",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "clean"
+            }
+          },
+          {
+            "id": "1583132133",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1583132133",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/cc/5f/36/cc5f369d-1585-3848-c4e9-e5c7d3446a2d/mza_3417097897235362447.jpeg/{w}x{h}bb.{f}"
+              },
+              "artistName": "Apple TV+",
+              "url": "https://podcasts.apple.com/us/podcast/the-problem-with-jon-stewart/id1583132133",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts",
+                "Comedy"
+              ],
+              "createdDate": "2021-08-27",
+              "trackCount": 23,
+              "completed": false,
+              "seasonNumbers": [],
+              "releaseFrequency": "Updated Weekly",
+              "name": "The Problem With Jon Stewart",
+              "kind": "episodic",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1583132133",
+              "releaseDateTime": "2022-03-10T08:00:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "The issues we tackle on The Problem With Jon Stewart are Too Big for TV™—so they spill over into the brilliantly titled The Problem With Jon Stewart podcast. Jon is joined by the staff and expert guests for nuanced discussions, updates on action items, and airing of grievances from writers over jokes that didn’t make the show.\nThe Problem With Jon Stewart is an Apple TV+ podcast produced by Busboy Productions."
+              },
+              "websiteUrl": "https://apple.co/-JonStewart",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "explicit"
+            }
+          },
+          {
+            "id": "1602740285",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1602740285",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/03/cb/df/03cbdf8c-8e71-0710-5297-2ff1e8442a8a/mza_16997232971537856802.jpg/{w}x{h}bb.{f}",
+                "bgColor": "fcef00",
+                "textColor1": "0b0b0d",
+                "textColor2": "001158",
+                "textColor3": "3b390a",
+                "textColor4": "333d46"
+              },
+              "artistName": "iHeartPodcasts",
+              "url": "https://podcasts.apple.com/us/podcast/welcome-to-our-show/id1602740285",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts",
+                "Comedy",
+                "Comedy Interviews"
+              ],
+              "createdDate": "2021-12-30",
+              "trackCount": 10,
+              "completed": false,
+              "seasonNumbers": [
+                1
+              ],
+              "releaseFrequency": "Updated Weekly",
+              "name": "Welcome to Our Show",
+              "kind": "episodic",
+              "copyright": "© iHeartPodcasts",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1602740285",
+              "releaseDateTime": "2022-03-07T11:00:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Go behind the scenes of Apartment 4D with the crew who called it home for seven incredible seasons. Each week, real-life friends Zooey Deschanel, Hannah Simone, and Lamorne Morris rewatch their Emmy nominated series, New Girl, and reveal the never before told behind-the-scenes escapades. Join them as they go bear hunting for every grizzly hidden in the background. Plus, each week, they play a different version of the True American game. Here, the rules don't make any sense, and you'll leave more confused than when you arrived. But it's always a good time with best friends. Speaking of besties - they're inviting all of the loft's favorite guest stars, writers, and directors to share their adventures on set."
+              },
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ]
+            }
+          },
+          {
+            "id": "1605253822",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1605253822",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/dc/86/a8/dc86a839-adfa-e71e-faf6-65a482882e4f/mza_13259360898305346269.jpg/{w}x{h}bb.{f}",
+                "bgColor": "01090c",
+                "textColor1": "e5c087",
+                "textColor2": "d79b60",
+                "textColor3": "b79b6e",
+                "textColor4": "ac7e4f"
+              },
+              "artistName": "HBO",
+              "url": "https://podcasts.apple.com/us/podcast/the-official-gilded-age-podcast/id1605253822",
+              "subscribable": true,
+              "genreNames": [
+                "After Shows",
+                "Podcasts",
+                "TV & Film"
+              ],
+              "createdDate": "2022-01-14",
+              "trackCount": 9,
+              "completed": false,
+              "seasonNumbers": [
+                1
+              ],
+              "releaseFrequency": "Updated Weekly",
+              "name": "The Official Gilded Age Podcast",
+              "kind": "episodic",
+              "copyright": "2022 © HBO Max",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1605253822",
+              "releaseDateTime": "2022-03-15T02:00:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Join TCM’s Alicia Malone and Tom Meyers from The Bowery Boys on HBO’s official Gilded Age podcast. After each episode, they discuss what happened on screen and the real people, places and events featured on the show. Each week they’re joined by some of the cast and crew who bring the show to life, sharing exclusive behind-the-scenes interviews and fun-filled history. \n\n\nWatch The Gilded Age on HBO Max starting Monday, January 24th and subscribe to The Official Gilded Age Podcast so you don’t miss an episode. "
+              },
+              "websiteUrl": "https://www.hbo.com/the-gilded-age",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "clean"
+            }
+          },
+          {
+            "id": "1611182774",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1611182774",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/ca/ad/1a/caad1afa-347d-db0d-3d0b-6ddf30039af7/mza_2570358346617095164.jpg/{w}x{h}bb.{f}",
+                "bgColor": "d29671",
+                "textColor1": "120a01",
+                "textColor2": "160e05",
+                "textColor3": "392618",
+                "textColor4": "3c291a"
+              },
+              "artistName": "Shondaland Audio and iHeartPodcasts",
+              "url": "https://podcasts.apple.com/us/podcast/inventing-anna-the-official-podcast/id1611182774",
+              "subscribable": true,
+              "genreNames": [
+                "After Shows",
+                "Podcasts",
+                "TV & Film",
+                "True Crime"
+              ],
+              "createdDate": "2022-02-22",
+              "trackCount": 4,
+              "completed": false,
+              "seasonNumbers": [
+                1
+              ],
+              "releaseFrequency": "Updated Weekly",
+              "name": "Inventing Anna: The Official Podcast",
+              "kind": "episodic",
+              "copyright": "© Shondaland Audio and iHeartPodcasts",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1611182774",
+              "releaseDateTime": "2022-03-16T07:01:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "This companion podcast delves deeper into the making of the hit Shondaland series Inventing Anna on Netflix, the story of infamous con artist Anna Sorokin (A.K.A. Anna Delvey). Hosted by Stacey Wilson Hunt, each episode features conversations with guests including creator Shonda Rhimes, journalist Jessica Pressler, cast, and the real-life people who inspired this iconic saga. \n \nTo catch up before you listen, make sure you binge Inventing Anna the series on Netflix now!"
+              },
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "clean"
+            }
+          },
+          {
+            "id": "1610877972",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1610877972",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2a/0e/79/2a0e797e-2a83-7f14-1032-1155d8fe9e28/mza_11225107954498715523.jpg/{w}x{h}bb.{f}",
+                "bgColor": "050304",
+                "textColor1": "ffffff",
+                "textColor2": "7eb5cd",
+                "textColor3": "cccccc",
+                "textColor4": "6591a5"
+              },
+              "artistName": "Kast Media | Ashley Greene",
+              "url": "https://podcasts.apple.com/us/podcast/the-twilight-effect/id1610877972",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts"
+              ],
+              "createdDate": "2022-02-19",
+              "trackCount": 3,
+              "completed": false,
+              "seasonNumbers": [],
+              "releaseFrequency": "Updated Weekly",
+              "name": "The Twilight Effect",
+              "kind": "episodic",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1610877972",
+              "releaseDateTime": "2022-03-15T09:00:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Alice Cullen is BACK to invite her Cullen family along with other cast members in the Twilight world as we bring to you this rewatch of all five Twilight movies. Ashley Greene is traveling to Forks, Washington, and guess what? The fans are invited to join in on every single episode. One such fan, Melanie Howe, is Ashley's best friend and co-host, and this twi-hard is going to pull out all of the behind-the-scenes gossip. \n\nAshley and Mel will break down every scene from the movies while Ashely shares on and off set secrets, inside info, and hilarious commentary. Mel's got some burning questions and, no matter how juicy, she's pushing her bestie to share! Then, Ashley and Mel are joined by cast members from the series. They'll interview them about their Twilight experiences and reminisce about that metamorphic time of their lives. Twilight had an impact on all of our lives, including the cast, so they'll think back and reveal their Twilight Effect. What is yours? You may just get invited to share it on the show!"
+              },
+              "websiteUrl": "https://kastmedia.com/podcasts/the-twilight-effect/",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "clean"
+            }
+          },
+          {
+            "id": "1611657419",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1611657419",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6b/ad/e3/6bade326-6923-91ad-1a6c-b6fdaa8392e8/mza_10025550807793838047.jpg/{w}x{h}bb.{f}",
+                "bgColor": "ffffff",
+                "textColor1": "000000",
+                "textColor2": "2f2f2f",
+                "textColor3": "333333",
+                "textColor4": "595959"
+              },
+              "artistName": "Netflix | Kast Media",
+              "url": "https://podcasts.apple.com/us/podcast/we-have-the-receipts/id1611657419",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts"
+              ],
+              "createdDate": "2022-02-25",
+              "trackCount": 4,
+              "completed": false,
+              "seasonNumbers": [
+                1
+              ],
+              "releaseFrequency": "Updated Weekly",
+              "name": "We Have the Receipts",
+              "kind": "episodic",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1611657419",
+              "releaseDateTime": "2022-03-08T10:00:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "There’s no shame admitting that we’ve all been there… on two feet as the credits roll, wide eyed, furiously googling your new favorite stars' Instagrams, scanning Twitter for memes. You know THAT energy? That electricity you feel when the binge is done but you just want MORE? That very feeling is the central theme of Netflix & Tudum’s next breakout hit: We Have The Receipts.\n\nHosted by Chris Burns and Lauren Speed-Hamilton, We Have the Receipts is a weekly\nall-access deep dive into Netflix Unscripted Reality! Joining Chris and Lauren will be this week’s top trending guest(s) - maybe a talked-about player from Love is Blind Season 2 or even some fan-faves from Too Hot To Handle.\n\nMust-see-TV is taken to the next level through prompts, games, conversations, segments, and immersive audience engagement that foster unpredictable moments and shocking reveals. With the free-flowing depth of podcast conversations and viral elements of TV’s best talk shows, We Have The Receipts is an upbeat, fan-first destination to uncover more insider secrets, more expert hot takes, and more off-the-rails drama from their favorite Netflix reality stars."
+              },
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "clean"
+            }
+          },
+          {
+            "id": "1473649053",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1473649053",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts115/v4/a9/33/3b/a9333b6e-be20-9afb-0b04-857ceeb3abf0/mza_9719008039541048888.jpeg/{w}x{h}bb.{f}",
+                "bgColor": "34081c",
+                "textColor1": "ffffff",
+                "textColor2": "d7a5c0",
+                "textColor3": "d6cdd1",
+                "textColor4": "b6859f"
+              },
+              "artistName": "Bachelor Nation | Wondery",
+              "url": "https://podcasts.apple.com/us/podcast/bachelor-happy-hour/id1473649053",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts",
+                "Society & Culture",
+                "Relationships"
+              ],
+              "createdDate": "2019-07-19",
+              "trackCount": 147,
+              "completed": false,
+              "seasonNumbers": [],
+              "name": "Bachelor Happy Hour",
+              "kind": "episodic",
+              "copyright": "© 2020 Telepictures Productions Inc",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1473649053",
+              "releaseDateTime": "2022-03-16T07:01:00Z",
+              "displayType": "hybrid",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "The one and only official Bachelor Nation podcast is here! Hosts Becca Kufrin and Michelle Young are no strangers to risking it all for love and showing their dating lives on national television. They have seen both sides of Bachelor Mansion, from handing out roses to receiving them. Now, Becca and Michelle are sharing their stories and experiences on the official Bachelor Nation podcast.\n“Bachelor Happy Hour” takes you behind the scenes with all things Bachelor Nation. Becca and Michelle talk to current cast members, who reveal first-hand details about what really went on. They’ve got all the inside information about “The Bachelor,” “The Bachelorette,” and “Bachelor in Paradise” that you simply won’t hear anywhere else.\nFrom chatting with fellow show alumni to doling out relationship advice and sharing exclusive material, you’ll find it all on “Bachelor Happy Hour.” Welcome to your new home for all things Bachelor Nation!\nBe sure to tune in on Apple Podcasts, Spotify, or wherever you listen to podcasts. You won’t want to miss it!"
+              },
+              "websiteUrl": "https://bachelornation.com/",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                },
+                {
+                  "kind": "subscribe",
+                  "type": "PSUB"
+                }
+              ],
+              "contentRating": "clean"
+            }
+          },
+          {
+            "id": "1238355247",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1238355247",
+            "attributes": {
+              "artwork": {
+                "width": 1400,
+                "height": 1400,
+                "url": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts116/v4/72/39/96/72399653-f32c-61c5-f38e-e225ab540c0e/mza_8907955720111671451.jpeg/{w}x{h}bb.{f}",
+                "bgColor": "feffff",
+                "textColor1": "000000",
+                "textColor2": "232100",
+                "textColor3": "323333",
+                "textColor4": "4f4d33"
+              },
+              "artistName": "iHeartPodcasts",
+              "url": "https://podcasts.apple.com/us/podcast/the-ben-and-ashley-i-almost-famous-podcast/id1238355247",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts",
+                "Society & Culture"
+              ],
+              "createdDate": "2017-05-18",
+              "trackCount": 353,
+              "completed": false,
+              "seasonNumbers": [
+                1
+              ],
+              "releaseFrequency": "Updated Daily",
+              "name": "The Ben and Ashley I Almost Famous Podcast",
+              "kind": "episodic",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1238355247",
+              "releaseDateTime": "2022-03-16T23:04:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Fan Favorite and one of the most popular Bachelors Ben Higgins and Ashley Iaconetti, the notorious crier from ABC’s Bachelorette and Bachelor in Paradise, will be covering everything relationships and breaking down the new season of the Bachelorette. They will include interviews with celebrities, past Bachelor and Bachelorette contestants, and interactions from their most loyal fans."
+              },
+              "websiteUrl": "https://www.iheart.com/podcast/139-the-ben-and-ashley-28165481/",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "clean"
+            }
+          },
+          {
+            "id": "278974813",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/278974813",
+            "attributes": {
+              "artwork": {
+                "width": 1400,
+                "height": 1400,
+                "url": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b4/88/90/b48890c1-2254-42b0-b0cc-8b62fb0bdebc/mza_6875716893681817020.jpg/{w}x{h}bb.{f}"
+              },
+              "artistName": "NPR",
+              "url": "https://podcasts.apple.com/us/podcast/pop-culture-happy-hour/id278974813",
+              "subscribable": true,
+              "genreNames": [
+                "Film Reviews",
+                "Podcasts",
+                "TV & Film",
+                "After Shows"
+              ],
+              "createdDate": "2008-04-18",
+              "trackCount": 303,
+              "completed": false,
+              "seasonNumbers": [],
+              "releaseFrequency": "Updated Daily",
+              "name": "Pop Culture Happy Hour",
+              "kind": "episodic",
+              "copyright": "© Copyright 2012-2021 NPR - For Personal Use Only",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=278974813",
+              "releaseDateTime": "2022-03-17T04:10:00Z",
+              "displayType": "hybrid",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Get obsessed with us. Five days a week, Pop Culture Happy Hour serves you recommendations and commentary on the buzziest movies, TV, music, books, videogames and more. Join arts journalists Linda Holmes, Glen Weldon, Stephen Thompson, and Aisha Harris - plus a rotating cast of guest pop culture aficionados. The Happy Hour team leaves room at the table for exploring a range of reactions and opinions on every bit of the pop universe. From lowbrow to highbrow to the stuff in between, they take it all with a shot of cheer.\n\nMake your happy hour even happier with Pop Culture Happy Hour Plus! Your subscription supports the podcast and unlocks a sponsor-free feed. Learn more at plus.npr.org/happyhour"
+              },
+              "websiteUrl": "https://www.npr.org/series/pop-culture-happy-hour/",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                },
+                {
+                  "kind": "subscribe",
+                  "type": "PSUB"
+                }
+              ]
+            }
+          },
+          {
+            "id": "1612934199",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1612934199",
+            "attributes": {
+              "artwork": {
+                "width": 1964,
+                "height": 1964,
+                "url": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b7/e4/19/b7e41977-f071-8d93-f943-d8c390a20d93/mza_10306267275359689086.jpg/{w}x{h}bb.{f}"
+              },
+              "artistName": "Slam Book Inc.",
+              "url": "https://podcasts.apple.com/us/podcast/better-things-with-pamela-adlon/id1612934199",
+              "subscribable": true,
+              "genreNames": [
+                "Film Interviews",
+                "Podcasts",
+                "TV & Film"
+              ],
+              "createdDate": "2022-03-05",
+              "trackCount": 4,
+              "completed": false,
+              "seasonNumbers": [
+                1
+              ],
+              "releaseFrequency": "Updated Weekly",
+              "name": "Better Things with Pamela Adlon",
+              "kind": "episodic",
+              "copyright": "© 2022",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1612934199",
+              "releaseDateTime": "2022-03-08T15:00:00Z",
+              "displayType": "hybrid",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Pamela Adlon, Emmy Award-winning creator, actor, writer, producer, and director, finally has her own podcast to explore the people and topics that inspire and light her up. Pamela will host special guests from all walks of life, and deep dive into their hidden dimensions – their journeys, their passions, what drives them, memories that stick, turning points in their lives, childhood nostalgia, and visions for the future.\n \nIn this season, Pamela breaks down the making of the fifth and final season of her critically acclaimed, award-winning series, Better Things. Take a peek into the creative process of a woman who at 50, started writing, directing, showrunning, and starring in her own TV show. Featuring guest stars, cast, and collaborators from the series. For all the fans of the show, this is the moment you’ve been waiting for. An inside look at each episode of the finale season, straight from the horse’s (Pamela’s) mouth."
+              },
+              "websiteUrl": "https://sites.libsyn.com/404378",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "PLUS"
+                },
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "explicit"
+            }
+          },
+          {
+            "id": "1586390793",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1586390793",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/9b/e0/48/9be048f9-ed66-759a-d22e-578cd35a8b2d/mza_9989743395211591712.jpg/{w}x{h}bb.{f}",
+                "bgColor": "feffff",
+                "textColor1": "000000",
+                "textColor2": "1b1c1d",
+                "textColor3": "323333",
+                "textColor4": "49494a"
+              },
+              "artistName": "The Ringer",
+              "url": "https://podcasts.apple.com/us/podcast/the-prestige-tv-podcast/id1586390793",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts"
+              ],
+              "createdDate": "2021-09-17",
+              "trackCount": 172,
+              "completed": false,
+              "seasonNumbers": [
+                1
+              ],
+              "releaseFrequency": "Updated Semiweekly",
+              "name": "The Prestige TV Podcast",
+              "kind": "episodic",
+              "copyright": "© All rights reserved.",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1586390793",
+              "releaseDateTime": "2022-03-16T10:00:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "The Ringer staff delivers a guide to the vast streaming landscape by discussing one show or movie per day, including premieres. the latest surprise Netflix hits, periodic check-ins on favorite TV shows, new movies available for streaming, and the hosts’ favorite shows to watch right away."
+              },
+              "websiteUrl": "https://www.theringer.com/",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ]
+            }
+          },
+          {
+            "id": "1268527882",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1268527882",
+            "attributes": {
+              "artwork": {
+                "width": 1400,
+                "height": 1400,
+                "url": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/48/34/53/483453b5-3c94-b254-5be7-36be0e45fdcb/mza_15456321659082808784.jpg/{w}x{h}bb.{f}",
+                "bgColor": "27ffb6",
+                "textColor1": "000000",
+                "textColor2": "001b12",
+                "textColor3": "073324",
+                "textColor4": "074933"
+              },
+              "artistName": "The Ringer & Bill Simmons",
+              "url": "https://podcasts.apple.com/us/podcast/the-rewatchables/id1268527882",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts"
+              ],
+              "createdDate": "2017-08-07",
+              "trackCount": 16,
+              "completed": false,
+              "seasonNumbers": [],
+              "releaseFrequency": "Updated Weekly",
+              "name": "The Rewatchables",
+              "kind": "episodic",
+              "copyright": "© All rights reserved.",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1268527882",
+              "releaseDateTime": "2022-03-15T04:00:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "'The Rewatchables,' a film podcast from the Ringer Podcast Network, features The Ringer’s Bill Simmons and a roundtable of people from the Ringer universe discussing movies they can’t seem to stop watching. Listen to the complete archives of 150-plus movies, including 'The Hangover,' 'Godfather 2,' 'Dunkirk,' 'Creed,' and many more classics, on our special 'Rewatchables' page on The Ringer."
+              },
+              "websiteUrl": "https://www.theringer.com",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "explicit"
+            }
+          },
+          {
+            "id": "1571792783",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1571792783",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ae/ed/17/aeed1787-806f-cc4b-c03f-1a84224694eb/mza_13504922311606715532.jpg/{w}x{h}bb.{f}",
+                "bgColor": "feffff",
+                "textColor1": "000000",
+                "textColor2": "482f1d",
+                "textColor3": "323333",
+                "textColor4": "6c584a"
+              },
+              "artistName": "iHeartPodcasts",
+              "url": "https://podcasts.apple.com/us/podcast/drama-queens/id1571792783",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts"
+              ],
+              "createdDate": "2021-06-10",
+              "trackCount": 43,
+              "completed": false,
+              "seasonNumbers": [],
+              "releaseFrequency": "Updated Weekly",
+              "name": "Drama Queens",
+              "kind": "episodic",
+              "copyright": "© iHeartRadio",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1571792783",
+              "releaseDateTime": "2022-03-14T04:00:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Take yourself back in time...back to high school. The ups and downs, the loves the losses, the struggles the triumphs, being together with your friends...feeling every emotion of it.\n \nIs 23 more than just a number to you? Do you respond to people by saying I don't wanna be anything other than what I've been trying to be lately? Do you expect to have life-changing moments while caught in the confetti or the rain?\n \nAre you One Tree Hill obsessed?...it's OK...we're here for you. You can sit with us.\n \nAre Brooke, Peyton and Haley your BFF goals?\n \nThese Drama Queens are getting back together!! Bethany Joy Lenz, Hilarie Burton and Sophia Bush are the biggest Drama Queens and they are here with you to dissect every episode, deliver every detail you must know, and devote themselves to you as you rewatch every single scene together.\n \nJoin Joy, Hilarie and Sophia each week.\n \nRelive it, Relove it, Rewatch it ...every One Tree Hill minute of it.\n\nBe a Drama Queen.\n\nDrama Queens, an iHeartRadio Podcast."
+              },
+              "websiteUrl": "https://www.iheart.com/podcast/1119-drama-queens-83532602/",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "clean"
+            }
+          },
+          {
+            "id": "498130432",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/498130432",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/a4/f6/f1/a4f6f1b6-da48-3993-363b-3f293f339de2/mza_15729203037942114648.jpg/{w}x{h}bb.{f}",
+                "bgColor": "00b8da",
+                "textColor1": "000000",
+                "textColor2": "02202b",
+                "textColor3": "00242b",
+                "textColor4": "013f4e"
+              },
+              "artistName": "Ben Mandelker & Ronnie Karam",
+              "url": "https://podcasts.apple.com/us/podcast/watch-what-crappens/id498130432",
+              "subscribable": true,
+              "genreNames": [
+                "TV Reviews",
+                "Podcasts",
+                "TV & Film"
+              ],
+              "createdDate": "2012-01-26",
+              "trackCount": 1760,
+              "completed": false,
+              "seasonNumbers": [],
+              "releaseFrequency": "Updated Daily",
+              "name": "Watch What Crappens",
+              "kind": "episodic",
+              "copyright": "© 2021 Ben Mandelker & Ronnie Karam",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=498130432",
+              "releaseDateTime": "2022-03-15T15:00:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "A daily podcast that revels in all things Bravo (and beyond!). Join Ben Mandelker and Ronnie Karam as they praise, ridicule, and eviscerate the Real Housewives, Below Deck, and whatever other crap Bravo throws at us. We mock because we love. Support us at www.patreon.com/watchwhatcrappens for bonus episodes, video recaps, and exclusive access to our Discord server."
+              },
+              "websiteUrl": "http://www.watchwhatcrappens.com/",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "explicit"
+            }
+          },
+          {
+            "id": "1536352412",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1536352412",
+            "attributes": {
+              "artwork": {
+                "width": 1500,
+                "height": 1500,
+                "url": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/62/0c/8e/620c8ebc-4215-d77e-e6fe-03555cb26525/mza_12848806942444707590.jpg/{w}x{h}bb.{f}",
+                "bgColor": "ffffff",
+                "textColor1": "000000",
+                "textColor2": "212121",
+                "textColor3": "333333",
+                "textColor4": "4e4e4e"
+              },
+              "artistName": "Hannah Berner & Paige DeSorbo",
+              "url": "https://podcasts.apple.com/us/podcast/giggly-squad/id1536352412",
+              "subscribable": true,
+              "genreNames": [
+                "After Shows",
+                "Podcasts",
+                "TV & Film",
+                "Comedy"
+              ],
+              "createdDate": "2020-10-19",
+              "trackCount": 73,
+              "completed": false,
+              "seasonNumbers": [
+                -27,
+                -15,
+                1
+              ],
+              "releaseFrequency": "Updated Biweekly",
+              "name": "Giggly Squad",
+              "kind": "episodic",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1536352412",
+              "releaseDateTime": "2022-03-15T06:51:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Welcome to Giggly Squad. Each week, Hannah Berner and Paige DeSorbo make fun of everything, but most importantly themselves. They discuss pop culture, fashion trends, television, horoscopes, mental health, dating, and expose their personal lives. Also, they can't be managed.\n See acast.com/privacy for privacy and opt-out information."
+              },
+              "websiteUrl": "gigglysquad.com",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "explicit"
+            }
+          },
+          {
+            "id": "1279562874",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1279562874",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/48/7f/69/487f69ad-64df-a74f-5fd3-aa27a0e5f85d/mza_5477625639474238308.jpeg/{w}x{h}bb.{f}",
+                "bgColor": "bfbfbf",
+                "textColor1": "0c0c0c",
+                "textColor2": "042445",
+                "textColor3": "2f2f2f",
+                "textColor4": "29435e"
+              },
+              "artistName": "Danny Pellegrino",
+              "url": "https://podcasts.apple.com/us/podcast/everything-iconic-with-danny-pellegrino/id1279562874",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts",
+                "Comedy",
+                "Comedy Interviews"
+              ],
+              "createdDate": "2017-09-06",
+              "trackCount": 448,
+              "completed": false,
+              "seasonNumbers": [
+                1,
+                2
+              ],
+              "releaseFrequency": "Updated Biweekly",
+              "name": "Everything Iconic with Danny Pellegrino",
+              "kind": "episodic",
+              "copyright": "© Danny Pellegrino",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1279562874",
+              "releaseDateTime": "2022-03-16T20:21:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Everything Iconic with Danny Pellegrino breaks down reality TV and iconic pop culture moments. Special guests deep dive with Danny into the topics we all care about: The Real Housewives and nostalgic entertainment, with some fun detours along the way.\n See acast.com/privacy for privacy and opt-out information."
+              },
+              "websiteUrl": "http://www.EverythingIconic.com",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "explicit"
+            }
+          },
+          {
+            "id": "1613414122",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1613414122",
+            "attributes": {
+              "artwork": {
+                "width": 2000,
+                "height": 2000,
+                "url": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/32/c5/02/32c50258-b744-138f-82fa-f4c42b63a770/mza_11775242172778694690.jpg/{w}x{h}bb.{f}",
+                "bgColor": "000201",
+                "textColor1": "199efe",
+                "textColor2": "fc4816",
+                "textColor3": "147fcb",
+                "textColor4": "c93a12"
+              },
+              "artistName": "The Ringer",
+              "url": "https://podcasts.apple.com/us/podcast/trial-by-content/id1613414122",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts"
+              ],
+              "createdDate": "2022-03-08",
+              "trackCount": 2,
+              "completed": false,
+              "seasonNumbers": [],
+              "releaseFrequency": "Updated Weekly",
+              "name": "Trial by Content",
+              "kind": "episodic",
+              "copyright": "© All rights reserved.",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1613414122",
+              "releaseDateTime": "2022-03-11T11:00:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Every week, Joanna Robinson, Dave Gonzales, and Neil Miller enter the pop-culture discourse with a lively (and occasionally heated) debate pegged to the biggest new releases in film and television. In addition to bringing their own answer, they also consider submissions from listeners and the occasional special guest. Together via rigorous debate and a listener poll, the hosts and audience venture on a quest to find the perfect answer for each of the greatest pop culture questions of our time."
+              },
+              "websiteUrl": "https://www.theringer.com",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ]
+            }
+          },
+          {
+            "id": "1494722390",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1494722390",
+            "attributes": {
+              "artwork": {
+                "width": 3000,
+                "height": 3000,
+                "url": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/24/2b/74/242b7443-e196-41e7-9c2f-6525f125083d/mza_13657698092977413192.jpeg/{w}x{h}bb.{f}",
+                "bgColor": "f64ba2",
+                "textColor1": "140902",
+                "textColor2": "241b16",
+                "textColor3": "411622",
+                "textColor4": "4e2432"
+              },
+              "artistName": "Lala Kent | Cumulus Podcast Network",
+              "url": "https://podcasts.apple.com/us/podcast/give-them-lala/id1494722390",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts",
+                "Arts",
+                "Fashion & Beauty"
+              ],
+              "createdDate": "2020-01-13",
+              "trackCount": 95,
+              "completed": false,
+              "seasonNumbers": [
+                2
+              ],
+              "releaseFrequency": "Updated Weekly",
+              "name": "Give Them Lala",
+              "kind": "episodic",
+              "copyright": "© 2022 Lala Kent | Cumulus Podcast Network",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1494722390",
+              "releaseDateTime": "2022-03-16T08:15:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Every day is a brand-new beginning for Lala Kent. Get to know the actress, singer, TV personality and entrepreneur, as she dives deep into relationships, sex, betrayal, mental health, personal life, and business. Lala’s top priority is to make her listeners feel heard, understood, and inspired. To give them honesty. Give them motivation. To Give Them Lala. "
+              },
+              "websiteUrl": "https://cumuluspodcastnetwork.com/pods/give-them-lala/",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "explicit"
+            }
+          },
+          {
+            "id": "1439252196",
+            "type": "podcasts",
+            "href": "/v1/catalog/us/podcasts/1439252196",
+            "attributes": {
+              "artwork": {
+                "width": 1400,
+                "height": 1400,
+                "url": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6d/d0/2e/6dd02e34-80b0-c946-257b-685bcc2d5050/mza_12469350061952001239.jpg/{w}x{h}bb.{f}",
+                "bgColor": "00784d",
+                "textColor1": "ffffff",
+                "textColor2": "f1ffff",
+                "textColor3": "cce3db",
+                "textColor4": "c0e3db"
+              },
+              "artistName": "The Ringer",
+              "url": "https://podcasts.apple.com/us/podcast/the-big-picture/id1439252196",
+              "subscribable": true,
+              "genreNames": [
+                "TV & Film",
+                "Podcasts"
+              ],
+              "createdDate": "2018-10-16",
+              "trackCount": 462,
+              "completed": false,
+              "seasonNumbers": [],
+              "name": "The Big Picture",
+              "kind": "episodic",
+              "copyright": "© All rights reserved.",
+              "subscriptionUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/subscribePodcast?cc=us&id=1439252196",
+              "releaseDateTime": "2022-03-16T20:27:00Z",
+              "displayType": "free",
+              "languageTag": "en-US",
+              "description": {
+                "standard": "Sean Fennessey and Amanda Dobbins review the movies you need to see. Plus: Top 5s, Movie Drafts, Oscars analysis, and more, featuring a rotating cast of Ringer colleagues like Chris Ryan, Shea Serrano, Van Lathan, and Bill Simmons."
+              },
+              "websiteUrl": "https://www.theringer.com",
+              "offers": [
+                {
+                  "kind": "get",
+                  "type": "STDQ"
+                }
+              ],
+              "contentRating": "clean"
+            }
+          }
+        ],
+        "href": "/v1/catalog/us/charts?chart=top&genre=1309&types=podcasts"
+      }
+    ]
+  }
+}
+
+----------------------------------------
+
+console:
+========
+{
+  let json, keys, val
+  let ep, data
+
+  try {
+    json = document.querySelector('script#shoebox-media-api-cache-amp-podcasts[type="fastboot/shoebox"]')
+    json = json.innerText
+    json = JSON.parse(json)
+    keys = Object.keys(json)
+
+    for (let key of keys) {
+      try {
+        val = json[key]
+        val = JSON.parse(val)
+
+        for (let index_d=0; index_d < val.d.length; index_d++) {
+          try {
+            ep = val.d[index_d]
+
+            if ((ep.attributes.kind === 'full') && ep.attributes.assetUrl) {
+              data = {
+                audio_url:    ep.attributes.assetUrl,
+                deeplink_url: ep.attributes.url,
+                title:        ep.attributes.name || ep.attributes.itunesTitle,
+                description:  ep.attributes.description.standard,
+                duration:     ep.attributes.durationInMilliseconds,
+                date:         ep.attributes.releaseDateTime
+              }
+
+              console.log(JSON.stringify(data, null, 2))
+            }
+          }
+          catch(e3) {}
+        }
+      }
+      catch(e2) {}
+    }
+  }
+  catch(e1) {}
+}
+
+output:
+=======
+
+{
+  "audio_url": "https://rss.art19.com/episodes/e909e645-a1d9-4068-b537-9f7389434f94.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+  "deeplink_url": "https://podcasts.apple.com/us/podcast/jon-talks-climate-change-it-gets-heated/id1583132133?i=1000554337375",
+  "title": "Jon Talks Climate Change: It Gets Heated",
+  "description": "We don’t want to send the message that criticizing us on Twitter is a ticket to the podcast...but that’s what climate reporter Kendra Pierre-Louis did, and now here she is. Kendra had some issues with our climate episode on Apple TV+, so Jon invited her on for a conversation. And just like our planet, things heated up—insofar as you can call a thoughtful exchange of ideas “heated up.” Jon is also joined by writers Rob Christensen and Tocarra Mallard to talk about Twitter trolls, beard maintenance, and the importance of a steady government job.\n\n\n\n\nJon recorded this episode away from the studio, so if it sounds like he’s talking into a paper cup tied to a string it’s because he actually might be. Please excuse the sound issues.\n\n\n\n\nWhat did you think of our episode? Give our hotline a call and leave your questions, comments, or thoughts: 1-212-634-7222.\n\n\n\n\nTo watch our latest episode, visit https://theproblem.link/AppleTV\n\n\n\n\nCREDITS\n\nHosted by: Jon Stewart\n\n\n\n\nFeaturing, in order of appearance: Tocarra Mallard, Rob Christensen, Kendra Pierre-Louis\n\n\n\n\nExecutive Produced by Jon Stewart, Brinda Adhikari, James Dixon, Chris McShane, and Richard Plepler.\n\nLead Producer: Sophie Erickson\n\nProducers: Caity Gray, Robby Slowik\n\n\n\n\nAssoc. Producer: Andrea Betanzos\n\nSound Designer & Audio Engineer: Miguel Carrascal\n\nSenior Digital Producer: Kwame Opam\n\nDigital Coordinator: Norma Hernandez\n\nSupervising Producer: Lorrie Baranek\n\nHead Writer: Kris Acimovic\n\nElements: Kenneth Hull, Daniella Philipson\n\nTalent: Brittany Mehmedovic, Haley Denzak\n\nResearch: Susan Helvenston, Andy Crystal, Anne Bennett, Deniz Çam, Harjyot Ron Singh\n\n\n\n\nTheme Music by: Gary Clark Jr.\n\n\n\n\nThe Problem With Jon Stewart podcast is an Apple TV+ podcast produced by Busboy Productions.\n\nhttps://apple.co/-JonStewart",
+  "duration": 3882000,
+  "date": "2022-03-17T07:00:00Z"
+}
+
+--------------------------------------------------------------------------------
